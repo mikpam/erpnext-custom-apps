@@ -1,0 +1,6 @@
+app_name = "ai_task_log"
+app_title = "AI Task Log"
+app_publisher = "Metrix Digital"
+app_description = "AI Task logging with Gemini API"
+app_email = "dev@metrixdigital.com"
+app_license = "mit"
