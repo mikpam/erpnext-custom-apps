@@ -1,0 +1,46 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"ai_hero\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>AI</b></span>\",\"col\":12}},{\"id\":\"ai_shortcuts\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"AI Task Log\",\"col\":4}},{\"id\":\"ai_spacer\",\"type\":\"spacer\",\"data\":{\"col\":12}}]",
+ "creation": "2026-02-08 20:00:00.000000",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "ai",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "AI",
+ "links": [
+  {
+   "description": "AI Task Log",
+   "icon": "file",
+   "label": "AI Task Log",
+   "link_count": 0,
+   "link_to": "AI Task Log",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-02-08 20:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "AI Task Log",
+ "name": "AI",
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "restrict_to_domain": "",
+ "roles": [],
+ "sequence_id": 100,
+ "shortcuts": [
+  {
+   "color": "Blue",
+   "doc_view": "List",
+   "label": "AI Task Log",
+   "link_to": "AI Task Log",
+   "stats_filter": "",
+   "type": "DocType"
+  }
+ ],
+ "title": "AI"
+}
